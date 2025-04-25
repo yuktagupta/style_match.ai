@@ -1,0 +1,11 @@
+# Next.js
+.next/
+out/
+build/
+.gitignore
+.env.local
+shivam.jpg
+
+
+# Environment
+node_modules/
